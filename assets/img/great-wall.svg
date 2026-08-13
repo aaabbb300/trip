@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="绵延山脊上的八达岭长城插画">
+  <defs>
+    <linearGradient id="sky1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a8d8d2"/>
+      <stop offset="1" stop-color="#f6ead7"/>
+    </linearGradient>
+    <linearGradient id="hill1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f8a63"/>
+      <stop offset="1" stop-color="#2f5e49"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky1)"/>
+  <circle cx="975" cy="160" r="62" fill="#f7c95c"/>
+  <path d="M0 520 L140 330 L270 450 L420 280 L560 430 L720 260 L870 410 L1030 300 L1200 460 L1200 675 L0 675 Z" fill="url(#hill1)"/>
+  <path d="M0 570 L180 430 L330 540 L500 400 L660 535 L830 410 L1010 520 L1200 430 L1200 675 L0 675 Z" fill="#264a3d"/>
+  <path d="M0 620 L220 505 L400 600 L620 490 L830 595 L1030 505 L1200 580 L1200 675 L0 675 Z" fill="#17382f"/>
+  <path d="M82 455 L248 340 L248 352 L348 316 L348 328 L500 250 L500 262 L620 322 L620 334 L742 286 L742 298 L872 246 L872 258 L1030 312 L1030 324 L1200 278 L1200 390 L82 455 Z" fill="#c98c54"/>
+  <path d="M82 455 L248 340 L348 316 L500 250 L620 322 L742 286 L872 246 L1030 312 L1200 278" fill="none" stroke="#e7b978" stroke-width="7"/>
+  <rect x="470" y="210" width="56" height="48" rx="5" fill="#8c4934"/>
+  <rect x="470" y="184" width="56" height="24" rx="4" fill="#d6783d"/>
+  <rect x="486" y="214" width="26" height="24" rx="3" fill="#f4d7a6"/>
+  <path d="M180 520 Q340 470 500 505 Q680 545 900 475 Q1040 425 1200 470" fill="none" stroke="#dceee7" stroke-width="12" opacity="0.45" stroke-linecap="round"/>
+</svg>

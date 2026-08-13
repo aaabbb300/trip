@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="布达拉宫红宫白宫插画">
+  <defs>
+    <linearGradient id="sky9" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fafc3"/>
+      <stop offset="1" stop-color="#f2e5c8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky9)"/>
+  <circle cx="970" cy="150" r="58" fill="#f3d085"/>
+  <path d="M0 520 L240 360 L480 500 L720 360 L960 500 L1200 400 L1200 675 L0 675 Z" fill="#8a6b4a" opacity="0.55"/>
+  <path d="M0 580 L300 430 L620 560 L930 430 L1200 520 L1200 675 L0 675 Z" fill="#5c4937" opacity="0.75"/>
+  <path d="M300 430 L430 250 L570 250 L700 430 Z" fill="#f2e8d0"/>
+  <path d="M320 430 L320 270 L460 270 L460 430 Z" fill="#f6efdb"/>
+  <path d="M540 430 L540 270 L680 270 L680 430 Z" fill="#f6efdb"/>
+  <rect x="430" y="250" width="140" height="180" fill="#b4483c"/>
+  <path d="M400 250 L500 130 L600 250 Z" fill="#c98a3e"/>
+  <path d="M500 130 L520 250" stroke="#8a4a32" stroke-width="8"/>
+  <path d="M500 130 L505 170 L495 170 Z" fill="#a34a38"/>
+  <rect x="350" y="350" width="300" height="80" rx="5" fill="#e8d9b2"/>
+  <rect x="470" y="350" width="60" height="80" fill="#a8453a"/>
+  <rect x="360" y="365" width="28" height="36" rx="3" fill="#7f4a3a"/>
+  <rect x="410" y="365" width="28" height="36" rx="3" fill="#7f4a3a"/>
+  <rect x="590" y="365" width="28" height="36" rx="3" fill="#7f4a3a"/>
+  <rect x="300" y="430" width="400" height="60" rx="5" fill="#d8c69a"/>
+  <rect x="330" y="440" width="30" height="38" rx="3" fill="#8a4a3a"/>
+  <rect x="410" y="440" width="30" height="38" rx="3" fill="#8a4a3a"/>
+  <rect x="490" y="440" width="30" height="38" rx="3" fill="#8a4a3a"/>
+  <rect x="570" y="440" width="30" height="38" rx="3" fill="#8a4a3a"/>
+  <path d="M0 610 Q300 575 600 610 T1200 610 L1200 675 L0 675 Z" fill="#3f4e4a" opacity="0.55"/>
+</svg>

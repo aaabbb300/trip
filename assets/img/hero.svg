@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="远山、长城与河流组成的中国旅行场景">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="0.55" stop-color="#3aa39a"/>
+      <stop offset="1" stop-color="#f2b84b"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bfe3dd"/>
+      <stop offset="1" stop-color="#4b8f9a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky)"/>
+  <circle cx="930" cy="210" r="74" fill="#ffe8a3" opacity="0.9"/>
+  <path d="M0 510 L150 370 L290 470 L440 330 L590 465 L750 340 L900 455 L1050 365 L1200 480 L1200 675 L0 675 Z" fill="#2f6b66" opacity="0.55"/>
+  <path d="M0 570 L140 455 L280 545 L430 430 L590 550 L760 430 L920 535 L1080 445 L1200 535 L1200 675 L0 675 Z" fill="#1f514f" opacity="0.8"/>
+  <path d="M0 640 Q180 545 360 605 Q540 665 720 595 Q900 530 1200 605 L1200 675 L0 675 Z" fill="#123b3c"/>
+  <path d="M118 400 L262 340 L262 352 L344 320 L344 332 L458 278 L458 290 L568 342 L568 354 L660 306 L660 318 L782 268 L782 280 L904 326 L904 338 L1040 296 L1040 308 L1148 270 L1148 282 L1200 260 L1200 360 L118 400 Z" fill="#d9a05b"/>
+  <path d="M118 400 L262 340 L344 320 L458 278 L568 342 L660 306 L782 268 L904 326 L1040 296 L1148 270" fill="none" stroke="#f4c97f" stroke-width="8" stroke-linecap="round"/>
+  <rect x="436" y="244" width="44" height="40" rx="4" fill="#8b4b32"/>
+  <rect x="436" y="224" width="44" height="18" rx="3" fill="#c96a3a"/>
+  <rect x="448" y="244" width="20" height="18" rx="3" fill="#f7d9a8"/>
+  <rect width="1200" height="675" fill="url(#water)" opacity="0.22"/>
+  <path d="M0 610 Q200 575 400 610 T800 610 T1200 610 L1200 675 L0 675 Z" fill="#7fc4c4" opacity="0.35"/>
+  <path d="M0 630 Q200 600 400 630 T800 630 T1200 630 L1200 675 L0 675 Z" fill="#eaf7ef" opacity="0.22"/>
+</svg>

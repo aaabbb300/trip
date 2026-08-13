@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="竹林里的大熊猫插画">
+  <defs>
+    <linearGradient id="sky7" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bfe0cf"/>
+      <stop offset="1" stop-color="#f3edd8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky7)"/>
+  <circle cx="960" cy="150" r="56" fill="#f5d381"/>
+  <rect x="120" y="420" width="960" height="160" rx="24" fill="#5c8f5b" opacity="0.9"/>
+  <path d="M140 130 L160 420 M120 420 L180 420" stroke="#4f7d4a" stroke-width="18" stroke-linecap="round"/>
+  <path d="M220 90 L240 420 M200 420 L260 420" stroke="#5f9158" stroke-width="18" stroke-linecap="round"/>
+  <path d="M940 100 L960 420 M920 420 L980 420" stroke="#4f7d4a" stroke-width="18" stroke-linecap="round"/>
+  <path d="M1020 140 L1040 420 M1000 420 L1060 420" stroke="#5f9158" stroke-width="18" stroke-linecap="round"/>
+  <path d="M180 140 Q200 110 220 140" fill="none" stroke="#3d6c3d" stroke-width="10"/>
+  <path d="M280 110 Q300 80 320 110" fill="none" stroke="#3d6c3d" stroke-width="10"/>
+  <path d="M960 150 Q980 120 1000 150" fill="none" stroke="#3d6c3d" stroke-width="10"/>
+  <path d="M1040 180 Q1060 150 1080 180" fill="none" stroke="#3d6c3d" stroke-width="10"/>
+  <ellipse cx="530" cy="400" rx="150" ry="120" fill="#f3f3ef"/>
+  <ellipse cx="440" cy="310" rx="70" ry="62" fill="#f3f3ef"/>
+  <ellipse cx="620" cy="310" rx="70" ry="62" fill="#f3f3ef"/>
+  <ellipse cx="410" cy="300" rx="34" ry="38" fill="#242424"/>
+  <ellipse cx="470" cy="300" rx="34" ry="38" fill="#242424"/>
+  <ellipse cx="590" cy="300" rx="34" ry="38" fill="#242424"/>
+  <ellipse cx="650" cy="300" rx="34" ry="38" fill="#242424"/>
+  <circle cx="440" cy="302" r="12" fill="#f3f3ef"/>
+  <circle cx="500" cy="302" r="12" fill="#f3f3ef"/>
+  <circle cx="590" cy="302" r="12" fill="#f3f3ef"/>
+  <circle cx="650" cy="302" r="12" fill="#f3f3ef"/>
+  <ellipse cx="530" cy="372" rx="42" ry="34" fill="#242424"/>
+  <ellipse cx="530" cy="410" rx="76" ry="50" fill="#f3f3ef"/>
+  <path d="M500 465 Q530 505 560 465 Z" fill="#f3f3ef"/>
+  <path d="M520 470 Q530 500 540 470 Z" fill="#242424"/>
+  <path d="M470 470 Q420 510 390 545" fill="none" stroke="#242424" stroke-width="34" stroke-linecap="round"/>
+  <path d="M590 470 Q640 510 670 545" fill="none" stroke="#242424" stroke-width="34" stroke-linecap="round"/>
+</svg>

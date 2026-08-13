@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="张家界砂岩峰林插画">
+  <defs>
+    <linearGradient id="sky4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9ccfd0"/>
+      <stop offset="1" stop-color="#eef1df"/>
+    </linearGradient>
+    <linearGradient id="rock" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a5b43"/>
+      <stop offset="1" stop-color="#5e3b31"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky4)"/>
+  <circle cx="180" cy="130" r="52" fill="#f3d07e"/>
+  <path d="M0 600 L220 250 L360 470 L520 180 L660 480 L830 230 L980 470 L1200 290 L1200 675 L0 675 Z" fill="#365d4a" opacity="0.85"/>
+  <path d="M110 600 L260 260 L300 600 Z" fill="url(#rock)"/>
+  <path d="M340 600 L520 180 L560 600 Z" fill="url(#rock)"/>
+  <path d="M560 600 L720 210 L780 600 Z" fill="url(#rock)"/>
+  <path d="M820 600 L980 250 L1030 600 Z" fill="url(#rock)"/>
+  <path d="M200 160 Q340 210 480 160 Q620 210 760 160 Q900 210 1040 160" fill="none" stroke="#e9f1e4" stroke-width="22" opacity="0.7"/>
+  <path d="M140 350 Q300 390 460 350 Q620 390 780 350 Q940 390 1100 350" fill="none" stroke="#f0ead2" stroke-width="18" opacity="0.55"/>
+  <path d="M260 170 L280 130 L300 170" fill="#3f6d4f"/>
+  <path d="M520 180 L550 130 L580 180" fill="#3f6d4f"/>
+  <path d="M720 210 L748 170 L776 210" fill="#3f6d4f"/>
+  <path d="M980 250 L1010 205 L1040 250" fill="#3f6d4f"/>
+  <path d="M0 620 Q300 570 600 615 T1200 610 L1200 675 L0 675 Z" fill="#24483b"/>
+</svg>

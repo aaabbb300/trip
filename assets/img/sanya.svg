@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="三亚椰林、大海与沙滩插画">
+  <defs>
+    <linearGradient id="sky10" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fd2e6"/>
+      <stop offset="1" stop-color="#f7e7ca"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#45a8c9"/>
+      <stop offset="1" stop-color="#16729e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky10)"/>
+  <circle cx="240" cy="150" r="68" fill="#f7d87f"/>
+  <rect y="330" width="1200" height="220" fill="url(#sea)"/>
+  <path d="M0 390 Q300 355 600 390 T1200 390 L1200 550 L0 550 Z" fill="#79c8d8" opacity="0.6"/>
+  <path d="M0 470 Q300 445 600 470 T1200 470" fill="none" stroke="#d5f1ee" stroke-width="10" opacity="0.5"/>
+  <path d="M0 510 Q250 480 500 510 T1000 510 T1200 505" fill="none" stroke="#d5f1ee" stroke-width="8" opacity="0.4"/>
+  <path d="M0 550 Q220 530 440 550 T880 550 T1200 550 L1200 675 L0 675 Z" fill="#f0d59a"/>
+  <path d="M0 590 Q260 565 520 590 T1040 590 L1200 585 L1200 675 L0 675 Z" fill="#e4bd7d"/>
+  <path d="M830 300 L860 560 M780 560 L900 560" stroke="#6e4b32" stroke-width="22" stroke-linecap="round"/>
+  <path d="M845 300 Q860 250 930 240" fill="none" stroke="#2f7a4a" stroke-width="16" stroke-linecap="round"/>
+  <path d="M845 300 Q800 260 750 280" fill="none" stroke="#2f7a4a" stroke-width="16" stroke-linecap="round"/>
+  <path d="M850 360 Q890 340 920 360" fill="none" stroke="#2f7a4a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M850 420 Q800 405 770 425" fill="none" stroke="#2f7a4a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M100 350 L140 320 L180 350" fill="#3d8a56"/>
+  <path d="M120 350 L120 430" stroke="#5d4936" stroke-width="16" stroke-linecap="round"/>
+  <path d="M100 430 L140 430" stroke="#5d4936" stroke-width="16" stroke-linecap="round"/>
+  <path d="M60 450 Q120 420 180 450" fill="none" stroke="#f4e3b4" stroke-width="10"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="西湖雷峰塔、湖面和拱桥插画">
+  <defs>
+    <linearGradient id="sky3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b8dde3"/>
+      <stop offset="1" stop-color="#f7ecd9"/>
+    </linearGradient>
+    <linearGradient id="lake" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9ed3d6"/>
+      <stop offset="1" stop-color="#4f8d9e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky3)"/>
+  <circle cx="940" cy="150" r="58" fill="#f7d38b"/>
+  <path d="M0 420 L150 320 L300 410 L470 300 L650 405 L840 315 L1020 410 L1200 330 L1200 675 L0 675 Z" fill="#719c84" opacity="0.7"/>
+  <rect y="390" width="1200" height="285" fill="url(#lake)"/>
+  <path d="M0 500 Q200 465 420 500 T840 500 T1200 500 L1200 675 L0 675 Z" fill="#7db9bd" opacity="0.45"/>
+  <path d="M0 545 Q200 520 420 545 T840 545 T1200 545 L1200 675 L0 675 Z" fill="#d5ece7" opacity="0.3"/>
+  <ellipse cx="430" cy="390" rx="100" ry="18" fill="#3f765f"/>
+  <rect x="384" y="268" width="92" height="130" rx="6" fill="#e6c989"/>
+  <rect x="390" y="258" width="80" height="16" rx="4" fill="#c9894a"/>
+  <rect x="420" y="398" width="20" height="130" rx="4" fill="#8b5a3f"/>
+  <path d="M292 410 Q430 330 568 410" fill="none" stroke="#d9b57a" stroke-width="18" stroke-linecap="round"/>
+  <path d="M292 410 Q430 330 568 410" fill="none" stroke="#f0d9a6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M700 420 Q760 390 820 420" fill="none" stroke="#f0d9a6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M700 420 Q760 390 820 420" fill="none" stroke="#e7b978" stroke-width="6" stroke-linecap="round"/>
+  <path d="M120 500 Q240 450 360 500" fill="none" stroke="#7fc9c7" stroke-width="12" stroke-linecap="round" opacity="0.7"/>
+</svg>

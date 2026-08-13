@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="秦始皇兵马俑阵列剪影插画">
+  <defs>
+    <linearGradient id="sky8" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6d6a5a"/>
+      <stop offset="1" stop-color="#b58b5c"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a5a37"/>
+      <stop offset="1" stop-color="#4f3528"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky8)"/>
+  <circle cx="180" cy="140" r="54" fill="#f0c477" opacity="0.85"/>
+  <path d="M0 520 L260 400 L520 505 L760 390 L1020 495 L1200 440 L1200 675 L0 675 Z" fill="#4e3a2d" opacity="0.75"/>
+  <rect y="520" width="1200" height="155" fill="url(#ground)"/>
+  <g fill="#3e2b22" opacity="0.95">
+    <path d="M120 520 L150 390 L180 520 Z"/>
+    <path d="M230 520 L260 380 L290 520 Z"/>
+    <path d="M340 520 L370 395 L400 520 Z"/>
+    <path d="M450 520 L480 375 L510 520 Z"/>
+    <path d="M560 520 L590 390 L620 520 Z"/>
+    <path d="M670 520 L700 380 L730 520 Z"/>
+    <path d="M780 520 L810 395 L840 520 Z"/>
+    <path d="M890 520 L920 375 L950 520 Z"/>
+    <path d="M1000 520 L1030 385 L1060 520 Z"/>
+  </g>
+  <g fill="#5b3a28" opacity="0.9">
+    <path d="M175 520 L205 405 L235 520 Z"/>
+    <path d="M285 520 L315 395 L345 520 Z"/>
+    <path d="M395 520 L425 410 L455 520 Z"/>
+    <path d="M505 520 L535 385 L565 520 Z"/>
+    <path d="M615 520 L645 400 L675 520 Z"/>
+    <path d="M725 520 L755 390 L785 520 Z"/>
+    <path d="M835 520 L865 410 L895 520 Z"/>
+    <path d="M945 520 L975 385 L1005 520 Z"/>
+    <path d="M1055 520 L1085 400 L1115 520 Z"/>
+  </g>
+  <path d="M0 560 Q300 535 600 560 T1200 560 L1200 675 L0 675 Z" fill="#2d211b" opacity="0.7"/>
+</svg>

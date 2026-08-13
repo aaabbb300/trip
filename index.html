@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trip 旅行攻略 | 中国 10 大热门旅行景点</title>
+  <meta name="description" content="Trip 旅行攻略提供中国 10 大热门旅行景点的详细攻略，包含路线、门票、交通、美食、住宿与注意事项。">
+  <meta property="og:title" content="Trip 旅行攻略">
+  <meta property="og:description" content="中国 10 大热门旅行景点详细攻略">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="home">
+  <main>
+    <section class="hero">
+      <div class="hero-bg">
+        <img src="assets/img/hero.svg" alt="远山、长城与河流组成的中国旅行场景">
+      </div>
+      <div class="container hero-content">
+        <span class="hero-eyebrow">中国 · 十大热门目的地</span>
+        <h1>把下一段旅程，提前规划到位</h1>
+        <p>从长城到布达拉宫，从西湖到三亚，每座城市都值得一份靠谱攻略。这里汇集 10 大热门景点的路线、门票、交通、美食与住宿建议。</p>
+        <form class="search-box" id="searchForm" role="search" aria-label="景点搜索">
+          <input id="searchInput" type="search" placeholder="搜索景点、城市或关键词，例如：长城、北京、亲子" autocomplete="off">
+          <button type="submit" aria-label="搜索">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+            搜索攻略
+          </button>
+        </form>
+      </div>
+    </section>
+
+    <section class="stat-strip">
+      <div class="container stats">
+        <div class="stat">
+          <span class="stat-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 4-6 2v14l6-2 6 2 6-2V4l-6 2-6-2z"/><path d="M9 4v14M15 6v14"/></svg>
+          </span>
+          <div><strong>10</strong><span>大热门景点</span></div>
+        </div>
+        <div class="stat">
+          <span class="stat-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 9a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v2a2 2 0 0 0 0 4v2a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-2a2 2 0 0 0 0-4z"/><path d="M13 7v2M13 11v2M13 15v2"/></svg>
+          </span>
+          <div><strong>10</strong><span>个独立攻略页</span></div>
+        </div>
+        <div class="stat">
+          <span class="stat-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+          </span>
+          <div><strong>100+</strong><span>条实用攻略要点</span></div>
+        </div>
+        <div class="stat">
+          <span class="stat-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>
+          </span>
+          <div><strong>全年</strong><span>四季出行参考</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="attractions">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <span class="eyebrow">TOP 10</span>
+            <h2>十大热门景点</h2>
+          </div>
+          <p class="section-note">点击卡片进入详情页，查看完整路线、门票、交通、美食、住宿和常见问题。</p>
+        </div>
+        <div class="attraction-grid" id="attractionGrid"></div>
+      </div>
+    </section>
+
+    <section class="tools-band section" id="tools">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <span class="eyebrow">TRAVEL TOOLS</span>
+            <h2>出行实用工具</h2>
+          </div>
+          <p class="section-note">出行前花 5 分钟确认这四件事，旅程会顺畅很多。</p>
+        </div>
+        <div class="tools-grid">
+          <div class="tool-panel">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+            <h3>选对出行时间</h3>
+            <p>热门景点集中在法定节假日爆满，优先安排工作日与清晨时段，避开索道和检票高峰。</p>
+          </div>
+          <div class="tool-panel">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 3v7a2 2 0 0 0 2 2h0a2 2 0 0 0 2-2V3M6 12v9M18 3c-1.5 1.5-2 4-2 6s1 4 3 4 3-2 3-4c0-2-.5-4.5-2-6M19 13v8"/></svg>
+            <h3>提前确认预约</h3>
+            <p>故宫、布达拉宫等景点需要实名预约，出发前先核对放票时间、证件要求和停票日期。</p>
+          </div>
+          <div class="tool-panel">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4M12 17h.01"/></svg>
+            <h3>关注天气预警</h3>
+            <p>山岳、海岛和竹筏项目受天气影响大，暴雨、台风、大雾天提前确认景区是否临时关闭。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-band">
+      <div class="container cta-inner">
+        <div>
+          <h2>还没决定先去哪里？</h2>
+          <p>按城市、季节和游览时长筛选，从十个目的地里找到最适合你的一站。</p>
+        </div>
+        <a class="btn" href="#attractions">浏览全部景点</a>
+      </div>
+    </section>
+  </main>
+
+  <script src="assets/js/attractions-data.js"></script>
+  <script src="assets/js/site.js"></script>
+</body>
+</html>
